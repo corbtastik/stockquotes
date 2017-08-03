@@ -1,0 +1,4547 @@
+[
+  {
+    "ticker": "MMM",
+    "company": "3M company",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hq": "St. Paul, Minnesota",
+    "dateAdded": null,
+    "cik": 66740
+  },
+  {
+    "ticker": "ABT",
+    "company": "Abbott Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "North Chicago, Illinois",
+    "dateAdded": "1964-03-31",
+    "cik": 1800
+  },
+  {
+    "ticker": "ABBV",
+    "company": "AbbVie Inc.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "North Chicago, Illinois",
+    "dateAdded": "2012-12-31",
+    "cik": 1551152
+  },
+  {
+    "ticker": "ACN",
+    "company": "Accenture plc",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "2011-07-06",
+    "cik": 1467373
+  },
+  {
+    "ticker": "ATVI",
+    "company": "Activision Blizzard",
+    "sector": "Information Technology",
+    "industry": "Home Entertainment Software",
+    "hq": "Santa Monica, California",
+    "dateAdded": "2015-08-31",
+    "cik": 718877
+  },
+  {
+    "ticker": "AYI",
+    "company": "Acuity Brands Inc",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2016-05-03",
+    "cik": 1144215
+  },
+  {
+    "ticker": "ADBE",
+    "company": "Adobe Systems Inc",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "San Jose, California",
+    "dateAdded": "1997-05-05",
+    "cik": 796343
+  },
+  {
+    "ticker": "AMD",
+    "company": "Advanced Micro Devices Inc",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Sunnyvale, California",
+    "dateAdded": "2017-03-20",
+    "cik": 2488
+  },
+  {
+    "ticker": "AAP",
+    "company": "Advance Auto Parts",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "hq": "Roanoke, Virginia",
+    "dateAdded": "2015-07-09",
+    "cik": 1158449
+  },
+  {
+    "ticker": "AES",
+    "company": "AES Corp",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers & Energy Traders",
+    "hq": "Arlington, Virginia",
+    "dateAdded": null,
+    "cik": 874761
+  },
+  {
+    "ticker": "AET",
+    "company": "Aetna Inc",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "Hartford, Connecticut",
+    "dateAdded": "1976-06-30",
+    "cik": 1122304
+  },
+  {
+    "ticker": "AMG",
+    "company": "Affiliated Managers Group Inc",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Beverly, Massachusetts",
+    "dateAdded": "2014-07-01",
+    "cik": 1004434
+  },
+  {
+    "ticker": "AFL",
+    "company": "AFLAC Inc",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "Columbus, Georgia",
+    "dateAdded": null,
+    "cik": 4977
+  },
+  {
+    "ticker": "A",
+    "company": "Agilent Technologies Inc",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Santa Clara, California",
+    "dateAdded": "2000-06-05",
+    "cik": 1090872
+  },
+  {
+    "ticker": "APD",
+    "company": "Air Products & Chemicals Inc",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hq": "Allentown, Pennsylvania",
+    "dateAdded": "1985-04-30",
+    "cik": 2969
+  },
+  {
+    "ticker": "AKAM",
+    "company": "Akamai Technologies Inc",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Cambridge, Massachusetts",
+    "dateAdded": "2007-07-12",
+    "cik": 1086222
+  },
+  {
+    "ticker": "ALK",
+    "company": "Alaska Air Group Inc",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "hq": "Seattle, Washington",
+    "dateAdded": "2016-05-13",
+    "cik": 766421
+  },
+  {
+    "ticker": "ALB",
+    "company": "Albemarle Corp",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "Baton Rouge, Louisiana",
+    "dateAdded": "2016-07-01",
+    "cik": 915913
+  },
+  {
+    "ticker": "ARE",
+    "company": "Alexandria Real Estate Equities Inc",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hq": "Pasadena, California",
+    "dateAdded": "2017-03-20",
+    "cik": 1035443
+  },
+  {
+    "ticker": "ALXN",
+    "company": "Alexion Pharmaceuticals",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Cheshire, Connecticut",
+    "dateAdded": "2012-05-25",
+    "cik": 899866
+  },
+  {
+    "ticker": "ALGN",
+    "company": "Align Technology",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hq": "San Jose, California",
+    "dateAdded": "2017-06-19",
+    "cik": 1097149
+  },
+  {
+    "ticker": "ALLE",
+    "company": "Allegion",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "2013-12-02",
+    "cik": 1579241
+  },
+  {
+    "ticker": "AGN",
+    "company": "Allergan, Plc",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Dublin, Ireland",
+    "dateAdded": null,
+    "cik": 884629
+  },
+  {
+    "ticker": "ADS",
+    "company": "Alliance Data Systems",
+    "sector": "Information Technology",
+    "industry": "Data Processing & Outsourced Services",
+    "hq": "Plano, Texas",
+    "dateAdded": "2013-12-23",
+    "cik": 1101215
+  },
+  {
+    "ticker": "LNT",
+    "company": "Alliant Energy Corp",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Madison, Wisconsin",
+    "dateAdded": "2016-07-01",
+    "cik": 352541
+  },
+  {
+    "ticker": "ALL",
+    "company": "Allstate Corp",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Northfield Township, Illinois",
+    "dateAdded": null,
+    "cik": 899051
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc Class A",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Mountain View, California",
+    "dateAdded": "2014-04-03",
+    "cik": 1652044
+  },
+  {
+    "ticker": "GOOG",
+    "company": "Alphabet Inc Class C",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Mountain View, California",
+    "dateAdded": null,
+    "cik": 1652044
+  },
+  {
+    "ticker": "MO",
+    "company": "Altria Group Inc",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "hq": "Richmond, Virginia",
+    "dateAdded": null,
+    "cik": 764180
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon.com Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet & Direct Marketing Retail",
+    "hq": "Seattle, Washington",
+    "dateAdded": "2005-11-18",
+    "cik": 1018724
+  },
+  {
+    "ticker": "AEE",
+    "company": "Ameren Corp",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "St. Louis, Missouri",
+    "dateAdded": "1991-09-19",
+    "cik": 1002910
+  },
+  {
+    "ticker": "AAL",
+    "company": "American Airlines Group",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "hq": "Fort Worth, Texas",
+    "dateAdded": "2015-03-23",
+    "cik": 6201
+  },
+  {
+    "ticker": "AEP",
+    "company": "American Electric Power",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Columbus, Ohio",
+    "dateAdded": null,
+    "cik": 4904
+  },
+  {
+    "ticker": "AXP",
+    "company": "American Express Co",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "New York, New York",
+    "dateAdded": "1976-06-30",
+    "cik": 4962
+  },
+  {
+    "ticker": "AIG",
+    "company": "American International Group, Inc.",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "New York, New York",
+    "dateAdded": "1980-03-31",
+    "cik": 5272
+  },
+  {
+    "ticker": "AMT",
+    "company": "American Tower Corp A",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Boston, Massachusetts",
+    "dateAdded": "2007-11-19",
+    "cik": 1053507
+  },
+  {
+    "ticker": "AWK",
+    "company": "American Water Works company Inc",
+    "sector": "Utilities",
+    "industry": "Water Utilities",
+    "hq": "Voorhees, New Jersey",
+    "dateAdded": "2016-03-04",
+    "cik": 1410636
+  },
+  {
+    "ticker": "AMP",
+    "company": "Ameriprise Financial",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Minneapolis, Minnesota",
+    "dateAdded": "2005-10-03",
+    "cik": 820027
+  },
+  {
+    "ticker": "ABC",
+    "company": "AmerisourceBergen Corp",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "Chesterbrook, Pennsylvania",
+    "dateAdded": "2001-08-30",
+    "cik": 1140859
+  },
+  {
+    "ticker": "AME",
+    "company": "AMETEK Inc",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hq": "Berwyn, Pennsylvania",
+    "dateAdded": "2013-09-23",
+    "cik": 1037868
+  },
+  {
+    "ticker": "AMGN",
+    "company": "Amgen Inc",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Thousand Oaks, California",
+    "dateAdded": "1992-01-02",
+    "cik": 318154
+  },
+  {
+    "ticker": "APH",
+    "company": "Amphenol Corp",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hq": "Wallingford, Connecticut",
+    "dateAdded": "2008-09-30",
+    "cik": 820313
+  },
+  {
+    "ticker": "APC",
+    "company": "Anadarko Petroleum Corp",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "The Woodlands, Texas",
+    "dateAdded": null,
+    "cik": 773910
+  },
+  {
+    "ticker": "ADI",
+    "company": "Analog Devices, Inc.",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Norwood, Massachusetts",
+    "dateAdded": null,
+    "cik": 6281
+  },
+  {
+    "ticker": "ANDV",
+    "company": "Andeavor",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hq": "San Antonio, Texas",
+    "dateAdded": "2007-09-27",
+    "cik": 50104
+  },
+  {
+    "ticker": "ANSS",
+    "company": "ANSYS Inc",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "Canonsburg, Pennsylvania",
+    "dateAdded": "2017-06-19",
+    "cik": 1013462
+  },
+  {
+    "ticker": "ANTM",
+    "company": "Anthem Inc.",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "Indianapolis, Indiana",
+    "dateAdded": null,
+    "cik": 1156039
+  },
+  {
+    "ticker": "AON",
+    "company": "Aon plc",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hq": "London, United Kingdom",
+    "dateAdded": null,
+    "cik": 315293
+  },
+  {
+    "ticker": "AOS",
+    "company": "A.O. Smith Corp",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Milwaukee, Wisconsin",
+    "dateAdded": "2017-07-26",
+    "cik": 91142
+  },
+  {
+    "ticker": "APA",
+    "company": "Apache Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": null,
+    "cik": 6769
+  },
+  {
+    "ticker": "AIV",
+    "company": "Apartment Investment & Management",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Denver, Colorado",
+    "dateAdded": null,
+    "cik": 922864
+  },
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Cupertino, California",
+    "dateAdded": "1982-11-30",
+    "cik": 320193
+  },
+  {
+    "ticker": "AMAT",
+    "company": "Applied Materials Inc",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": "Santa Clara, California",
+    "dateAdded": null,
+    "cik": 6951
+  },
+  {
+    "ticker": "ADM",
+    "company": "Archer-Daniels-Midland Co",
+    "sector": "Consumer Staples",
+    "industry": "Agricultural Products",
+    "hq": "Decatur, Illinois",
+    "dateAdded": "1981-07-29",
+    "cik": 7084
+  },
+  {
+    "ticker": "ARNC",
+    "company": "Arconic Inc",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "New York, New York",
+    "dateAdded": "1964-03-31",
+    "cik": 4281
+  },
+  {
+    "ticker": "AJG",
+    "company": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hq": "Itasca, Illinois",
+    "dateAdded": "2016-05-31",
+    "cik": 354190
+  },
+  {
+    "ticker": "AIZ",
+    "company": "Assurant Inc",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hq": "New York, New York",
+    "dateAdded": "2007-04-10",
+    "cik": 1267238
+  },
+  {
+    "ticker": "T",
+    "company": "AT&T Inc",
+    "sector": "Telecommunication Services",
+    "industry": "Integrated Telecommunication Services",
+    "hq": "Dallas, Texas",
+    "dateAdded": "1983-11-30",
+    "cik": 732717
+  },
+  {
+    "ticker": "ADSK",
+    "company": "Autodesk Inc",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "San Rafael, California",
+    "dateAdded": "1989-12-01",
+    "cik": 769397
+  },
+  {
+    "ticker": "ADP",
+    "company": "Automatic Data Processing",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Roseland, New Jersey",
+    "dateAdded": "1981-03-31",
+    "cik": 8670
+  },
+  {
+    "ticker": "AN",
+    "company": "AutoNation Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Fort Lauderdale, Florida",
+    "dateAdded": null,
+    "cik": 350698
+  },
+  {
+    "ticker": "AZO",
+    "company": "AutoZone Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Memphis, Tennessee",
+    "dateAdded": null,
+    "cik": 866787
+  },
+  {
+    "ticker": "AVB",
+    "company": "AvalonBay Communities, Inc.",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Arlington, Virginia[3]",
+    "dateAdded": "2007-01-10",
+    "cik": 915912
+  },
+  {
+    "ticker": "AVY",
+    "company": "Avery Dennison Corp",
+    "sector": "Materials",
+    "industry": "Paper Packaging",
+    "hq": "Glendale, California",
+    "dateAdded": "1987-12-31",
+    "cik": 8818
+  },
+  {
+    "ticker": "BHGE",
+    "company": "Baker Hughes, a GE company",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": "Houston, Texas",
+    "dateAdded": null,
+    "cik": 1701605
+  },
+  {
+    "ticker": "BLL",
+    "company": "Ball Corp",
+    "sector": "Materials",
+    "industry": "Metal & Glass Containers",
+    "hq": "Broomfield, Colorado",
+    "dateAdded": "1984-10-31",
+    "cik": 9389
+  },
+  {
+    "ticker": "BAC",
+    "company": "Bank of America Corp",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "Charlotte, North Carolina",
+    "dateAdded": "1976-06-30",
+    "cik": 70858
+  },
+  {
+    "ticker": "BK",
+    "company": "The Bank of New York Mellon Corp.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1390777
+  },
+  {
+    "ticker": "BCR",
+    "company": "Bard (C.R.) Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Murray Hill, New Jersey",
+    "dateAdded": "1975-06-30",
+    "cik": 9892
+  },
+  {
+    "ticker": "BAX",
+    "company": "Baxter International Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Deerfield, Illinois",
+    "dateAdded": "1972-09-30",
+    "cik": 10456
+  },
+  {
+    "ticker": "BBT",
+    "company": "BB&T Corporation",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Winston-Salem, North Carolina",
+    "dateAdded": null,
+    "cik": 92230
+  },
+  {
+    "ticker": "BDX",
+    "company": "Becton Dickinson",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Franklin Lakes, New Jersey",
+    "dateAdded": "1972-09-30",
+    "cik": 10795
+  },
+  {
+    "ticker": "BRK.B",
+    "company": "Berkshire Hathaway",
+    "sector": "Financials",
+    "industry": "Multi-sector Holdings",
+    "hq": "Omaha, Nebraska",
+    "dateAdded": "2010-02-16",
+    "cik": 1067983
+  },
+  {
+    "ticker": "BBY",
+    "company": "Best Buy Co. Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Computer & Electronics Retail",
+    "hq": "Richfield, Minnesota",
+    "dateAdded": "1999-06-29",
+    "cik": 764478
+  },
+  {
+    "ticker": "BIIB",
+    "company": "Biogen Inc.",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Weston, Massachusetts",
+    "dateAdded": null,
+    "cik": 875045
+  },
+  {
+    "ticker": "BLK",
+    "company": "BlackRock",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "New York, New York",
+    "dateAdded": "2011-04-04",
+    "cik": 1364742
+  },
+  {
+    "ticker": "HRB",
+    "company": "Block H&R",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "Kansas City, Missouri",
+    "dateAdded": "1986-11-30",
+    "cik": 12659
+  },
+  {
+    "ticker": "BA",
+    "company": "Boeing company",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Chicago, Illinois",
+    "dateAdded": null,
+    "cik": 12927
+  },
+  {
+    "ticker": "BWA",
+    "company": "BorgWarner",
+    "sector": "Consumer Discretionary",
+    "industry": "Auto Parts & Equipment",
+    "hq": "Auburn Hills, Michigan",
+    "dateAdded": "2011-12-19",
+    "cik": 908255
+  },
+  {
+    "ticker": "BXP",
+    "company": "Boston Properties",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hq": "Boston, Massachusetts",
+    "dateAdded": "2006-04-03",
+    "cik": 1037540
+  },
+  {
+    "ticker": "BSX",
+    "company": "Boston Scientific",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Marlborough, Massachusetts[4]",
+    "dateAdded": "1995-02-24",
+    "cik": 885725
+  },
+  {
+    "ticker": "BMY",
+    "company": "Bristol-Myers Squibb",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 14272
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "San Jose, California",
+    "dateAdded": "2014-05-08",
+    "cik": 1441634
+  },
+  {
+    "ticker": "BF.B",
+    "company": "Brown-Forman Corp.",
+    "sector": "Consumer Staples",
+    "industry": "Distillers & Vintners",
+    "hq": "Louisville, Kentucky",
+    "dateAdded": "1982-10-31",
+    "cik": 14693
+  },
+  {
+    "ticker": "CHRW",
+    "company": "C. H. Robinson Worldwide",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": "Eden Prairie, Minnesota",
+    "dateAdded": "2007-03-02",
+    "cik": 1043277
+  },
+  {
+    "ticker": "CA",
+    "company": "CA, Inc.",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": "Islandia, New York",
+    "dateAdded": "1987-07-31",
+    "cik": 356028
+  },
+  {
+    "ticker": "COG",
+    "company": "Cabot Oil & Gas",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": "2008-06-23",
+    "cik": 858470
+  },
+  {
+    "ticker": "CPB",
+    "company": "Campbell Soup",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Camden, New Jersey",
+    "dateAdded": null,
+    "cik": 16732
+  },
+  {
+    "ticker": "COF",
+    "company": "Capital One Financial",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "Tysons Corner, Virginia",
+    "dateAdded": null,
+    "cik": 927628
+  },
+  {
+    "ticker": "CAH",
+    "company": "Cardinal Health Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "Dublin, Ohio",
+    "dateAdded": null,
+    "cik": 721371
+  },
+  {
+    "ticker": "CBOE",
+    "company": "CBOE Holdings",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2017-03-01",
+    "cik": 1374310
+  },
+  {
+    "ticker": "KMX",
+    "company": "Carmax Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Richmond, Virginia",
+    "dateAdded": "2010-06-28",
+    "cik": 1170010
+  },
+  {
+    "ticker": "CCL",
+    "company": "Carnival Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hq": "Miami, Florida",
+    "dateAdded": null,
+    "cik": 815097
+  },
+  {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Trucks",
+    "hq": "Peoria, Illinois",
+    "dateAdded": null,
+    "cik": 18230
+  },
+  {
+    "ticker": "CBG",
+    "company": "CBRE Group",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "hq": "Los Angeles, California",
+    "dateAdded": "2006-11-10",
+    "cik": 1138118
+  },
+  {
+    "ticker": "CBS",
+    "company": "CBS Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadcasting",
+    "hq": "New York, New York",
+    "dateAdded": "1994-09-01",
+    "cik": 813828
+  },
+  {
+    "ticker": "CELG",
+    "company": "Celgene Corp.",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Summit, New Jersey",
+    "dateAdded": "2006-11-06",
+    "cik": 816284
+  },
+  {
+    "ticker": "CNC",
+    "company": "Centene Corporation",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "St Louis, Missouri",
+    "dateAdded": "2016-03-30",
+    "cik": 1071739
+  },
+  {
+    "ticker": "CNP",
+    "company": "CenterPoint Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Houston, Texas",
+    "dateAdded": "1985-07-31",
+    "cik": 1130310
+  },
+  {
+    "ticker": "CTL",
+    "company": "CenturyLink Inc",
+    "sector": "Telecommunication Services",
+    "industry": "Integrated Telecommunication Services",
+    "hq": "Monroe, Louisiana",
+    "dateAdded": null,
+    "cik": 18926
+  },
+  {
+    "ticker": "CERN",
+    "company": "Cerner",
+    "sector": "Health Care",
+    "industry": "Health Care Technology",
+    "hq": "North Kansas City, Missouri",
+    "dateAdded": "2010-04-30",
+    "cik": 804753
+  },
+  {
+    "ticker": "CF",
+    "company": "CF Industries Holdings Inc",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hq": "Deerfield, Illinois",
+    "dateAdded": "2008-08-27",
+    "cik": 1324404
+  },
+  {
+    "ticker": "SCHW",
+    "company": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hq": "San Francisco, California",
+    "dateAdded": null,
+    "cik": 316709
+  },
+  {
+    "ticker": "CHTR",
+    "company": "Charter Communications",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Stamford, Connecticut",
+    "dateAdded": "2016-09-08",
+    "cik": 1091667
+  },
+  {
+    "ticker": "CHK",
+    "company": "Chesapeake Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Oklahoma City, Oklahoma",
+    "dateAdded": null,
+    "cik": 895126
+  },
+  {
+    "ticker": "CVX",
+    "company": "Chevron Corp.",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hq": "San Ramon, California",
+    "dateAdded": null,
+    "cik": 93410
+  },
+  {
+    "ticker": "CMG",
+    "company": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": "Denver, Colorado",
+    "dateAdded": "2011-04-28",
+    "cik": 1058090
+  },
+  {
+    "ticker": "CB",
+    "company": "Chubb Limited",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Zurich, Switzerland",
+    "dateAdded": "2010-07-15",
+    "cik": 896159
+  },
+  {
+    "ticker": "CHD",
+    "company": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hq": "Ewing, New Jersey",
+    "dateAdded": "2015-12-29",
+    "cik": 313927
+  },
+  {
+    "ticker": "CI",
+    "company": "CIGNA Corp.",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "Philadelphia, Pennsylvania",
+    "dateAdded": "1976-06-30",
+    "cik": 701221
+  },
+  {
+    "ticker": "XEC",
+    "company": "Cimarex Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Denver, Colorado",
+    "dateAdded": "2014-06-21",
+    "cik": 1168054
+  },
+  {
+    "ticker": "CINF",
+    "company": "Cincinnati Financial",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Fairfield, Ohio",
+    "dateAdded": null,
+    "cik": 20286
+  },
+  {
+    "ticker": "CTAS",
+    "company": "Cintas Corporation",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "hq": "Mason, Ohio",
+    "dateAdded": "2001-03-01",
+    "cik": 723254
+  },
+  {
+    "ticker": "CSCO",
+    "company": "Cisco Systems",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": "San Jose, California",
+    "dateAdded": "1993-12-01",
+    "cik": 858877
+  },
+  {
+    "ticker": "C",
+    "company": "Citigroup Inc.",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "New York, New York",
+    "dateAdded": "1988-05-31",
+    "cik": 831001
+  },
+  {
+    "ticker": "CFG",
+    "company": "Citizens Financial Group",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Providence, Rhode Island",
+    "dateAdded": "2016-01-29",
+    "cik": 759944
+  },
+  {
+    "ticker": "CTXS",
+    "company": "Citrix Systems",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Fort Lauderdale, Florida",
+    "dateAdded": null,
+    "cik": 877890
+  },
+  {
+    "ticker": "CLX",
+    "company": "The Clorox company",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hq": "Oakland, California",
+    "dateAdded": "1969-03-31",
+    "cik": 21076
+  },
+  {
+    "ticker": "CME",
+    "company": "CME Group Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "Chicago, Illinois",
+    "dateAdded": null,
+    "cik": 1156375
+  },
+  {
+    "ticker": "CMS",
+    "company": "CMS Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Jackson, Michigan",
+    "dateAdded": null,
+    "cik": 811156
+  },
+  {
+    "ticker": "COH",
+    "company": "Coach Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1116132
+  },
+  {
+    "ticker": "KO",
+    "company": "Coca-Cola company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": null,
+    "cik": 21344
+  },
+  {
+    "ticker": "CTSH",
+    "company": "Cognizant Technology Solutions",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Teaneck, New Jersey",
+    "dateAdded": "2006-11-17",
+    "cik": 1058290
+  },
+  {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 21665
+  },
+  {
+    "ticker": "CMCSA",
+    "company": "Comcast Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Philadelphia, Pennsylvania",
+    "dateAdded": "2015-09-18",
+    "cik": 1166691
+  },
+  {
+    "ticker": "CMA",
+    "company": "Comerica Inc.",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "Dallas, Texas",
+    "dateAdded": null,
+    "cik": 28412
+  },
+  {
+    "ticker": "CAG",
+    "company": "Conagra Brands",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "1983-08-31",
+    "cik": 23217
+  },
+  {
+    "ticker": "CXO",
+    "company": "Concho Resources",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Midland, Texas",
+    "dateAdded": "2016-02-22",
+    "cik": 1358071
+  },
+  {
+    "ticker": "COP",
+    "company": "ConocoPhillips",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": null,
+    "cik": 1163165
+  },
+  {
+    "ticker": "ED",
+    "company": "Consolidated Edison",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1047862
+  },
+  {
+    "ticker": "STZ",
+    "company": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "industry": "Distillers & Vintners",
+    "hq": "Victor, New York",
+    "dateAdded": "2005-07-05",
+    "cik": 16918
+  },
+  {
+    "ticker": "COO",
+    "company": "The Cooper Companies",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hq": "Pleasanton, California",
+    "dateAdded": "2016-09-23",
+    "cik": 711404
+  },
+  {
+    "ticker": "GLW",
+    "company": "Corning Inc.",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "hq": "Corning, New York",
+    "dateAdded": null,
+    "cik": 24741
+  },
+  {
+    "ticker": "COST",
+    "company": "Costco Wholesale Corp.",
+    "sector": "Consumer Staples",
+    "industry": "Hypermarkets & Super Centers",
+    "hq": "Issaquah, Washington",
+    "dateAdded": "1993-10-01",
+    "cik": 909832
+  },
+  {
+    "ticker": "COTY",
+    "company": "Coty, Inc",
+    "sector": "Consumer Staples",
+    "industry": "Personal Products",
+    "hq": "New York, NY",
+    "dateAdded": "2016-10-03",
+    "cik": 1024305
+  },
+  {
+    "ticker": "CCI",
+    "company": "Crown Castle International Corp.",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Houston, Texas",
+    "dateAdded": "2012-03-14",
+    "cik": 1051470
+  },
+  {
+    "ticker": "CSRA",
+    "company": "CSRA Inc.",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Falls Church, Virginia",
+    "dateAdded": "2015-12-01",
+    "cik": 1646383
+  },
+  {
+    "ticker": "CSX",
+    "company": "CSX Corp.",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "hq": "Jacksonville, Florida",
+    "dateAdded": "1967-09-30",
+    "cik": 277948
+  },
+  {
+    "ticker": "CMI",
+    "company": "Cummins Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Columbus, Indiana",
+    "dateAdded": "1965-03-31",
+    "cik": 26172
+  },
+  {
+    "ticker": "CVS",
+    "company": "CVS Health",
+    "sector": "Consumer Staples",
+    "industry": "Drug Retail",
+    "hq": "Woonsocket, Rhode Island",
+    "dateAdded": null,
+    "cik": 64803
+  },
+  {
+    "ticker": "DHI",
+    "company": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hq": "Fort Worth, Texas",
+    "dateAdded": null,
+    "cik": 882184
+  },
+  {
+    "ticker": "DHR",
+    "company": "Danaher Corp.",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Washington, D.C.",
+    "dateAdded": null,
+    "cik": 313616
+  },
+  {
+    "ticker": "DRI",
+    "company": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": "Orlando, Florida",
+    "dateAdded": null,
+    "cik": 940944
+  },
+  {
+    "ticker": "DVA",
+    "company": "DaVita Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "hq": "Denver, Colorado",
+    "dateAdded": "2008-07-31",
+    "cik": 927066
+  },
+  {
+    "ticker": "DE",
+    "company": "Deere & Co.",
+    "sector": "Industrials",
+    "industry": "Agricultural & Farm Machinery",
+    "hq": "Moline, Illinois",
+    "dateAdded": null,
+    "cik": 315189
+  },
+  {
+    "ticker": "DLPH",
+    "company": "Delphi Automotive PLC",
+    "sector": "Consumer Discretionary",
+    "industry": "Auto Parts & Equipment",
+    "hq": "Gillingham, Kent, United Kingdom",
+    "dateAdded": "2012-12-24",
+    "cik": 1521332
+  },
+  {
+    "ticker": "DAL",
+    "company": "Delta Air Lines Inc.",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2013-09-11",
+    "cik": 27904
+  },
+  {
+    "ticker": "XRAY",
+    "company": "Dentsply Sirona",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hq": "York, Pennsylvania",
+    "dateAdded": "2008-11-14",
+    "cik": 818479
+  },
+  {
+    "ticker": "DVN",
+    "company": "Devon Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Oklahoma City, Oklahoma",
+    "dateAdded": "2000-08-30",
+    "cik": 1090012
+  },
+  {
+    "ticker": "DLR",
+    "company": "Digital Realty Trust Inc",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "San Francisco, California",
+    "dateAdded": "2016-05-18",
+    "cik": 1297996
+  },
+  {
+    "ticker": "DFS",
+    "company": "Discover Financial Services",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "Riverwoods, Illinois",
+    "dateAdded": "2007-07-02",
+    "cik": 1393612
+  },
+  {
+    "ticker": "DISCA",
+    "company": "Discovery Communications-A",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Silver Spring, Maryland",
+    "dateAdded": "2010-03-01",
+    "cik": 1437107
+  },
+  {
+    "ticker": "DISCK",
+    "company": "Discovery Communications-C",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Silver Spring, Maryland",
+    "dateAdded": "2014-08-07",
+    "cik": 1437107
+  },
+  {
+    "ticker": "DISH",
+    "company": "Dish Network",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Meridian, Colorado",
+    "dateAdded": "2017-03-13",
+    "cik": 1001082
+  },
+  {
+    "ticker": "DG",
+    "company": "Dollar General",
+    "sector": "Consumer Discretionary",
+    "industry": "General Merchandise Stores",
+    "hq": "Goodlettsville, Tennessee",
+    "dateAdded": "2012-12-03",
+    "cik": 29534
+  },
+  {
+    "ticker": "DLTR",
+    "company": "Dollar Tree",
+    "sector": "Consumer Discretionary",
+    "industry": "General Merchandise Stores",
+    "hq": "Chesapeake, Virginia",
+    "dateAdded": "2011-12-19",
+    "cik": 935703
+  },
+  {
+    "ticker": "D",
+    "company": "Dominion Resources",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Richmond, Virginia",
+    "dateAdded": null,
+    "cik": 715957
+  },
+  {
+    "ticker": "DOV",
+    "company": "Dover Corp.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Downers Grove, Illinois",
+    "dateAdded": "1985-10-31",
+    "cik": 29905
+  },
+  {
+    "ticker": "DOW",
+    "company": "Dow Chemical",
+    "sector": "Materials",
+    "industry": "Diversified Chemicals",
+    "hq": "Midland, Michigan",
+    "dateAdded": null,
+    "cik": 29915
+  },
+  {
+    "ticker": "DPS",
+    "company": "Dr Pepper Snapple Group",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks",
+    "hq": "Plano, Texas",
+    "dateAdded": "2008-10-07",
+    "cik": 1418135
+  },
+  {
+    "ticker": "DTE",
+    "company": "DTE Energy Co.",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Detroit, Michigan",
+    "dateAdded": null,
+    "cik": 936340
+  },
+  {
+    "ticker": "DRE",
+    "company": "Duke Realty Corp",
+    "sector": "Real Estate",
+    "industry": "Industrial REITs",
+    "hq": "Indianapolis, Indiana",
+    "dateAdded": "2017-07-26",
+    "cik": 783280
+  },
+  {
+    "ticker": "DD",
+    "company": "Du Pont (E.I.)",
+    "sector": "Materials",
+    "industry": "Diversified Chemicals",
+    "hq": "Wilmington, Delaware",
+    "dateAdded": null,
+    "cik": 30554
+  },
+  {
+    "ticker": "DUK",
+    "company": "Duke Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Charlotte, North Carolina",
+    "dateAdded": "1976-06-30",
+    "cik": 1326160
+  },
+  {
+    "ticker": "DXC",
+    "company": "DXC Technology",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Tysons Corner, Virginia",
+    "dateAdded": "2017-04-04",
+    "cik": 1688568
+  },
+  {
+    "ticker": "ETFC",
+    "company": "E*Trade",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hq": "New York, New York",
+    "dateAdded": "2004-03-31",
+    "cik": 1015780
+  },
+  {
+    "ticker": "EMN",
+    "company": "Eastman Chemical",
+    "sector": "Materials",
+    "industry": "Diversified Chemicals",
+    "hq": "Kingsport, Tennessee",
+    "dateAdded": "1994-01-01",
+    "cik": 915389
+  },
+  {
+    "ticker": "ETN",
+    "company": "Eaton Corporation",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hq": "Dublin, Ireland",
+    "dateAdded": null,
+    "cik": 1551182
+  },
+  {
+    "ticker": "EBAY",
+    "company": "eBay Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "San Jose, California",
+    "dateAdded": null,
+    "cik": 1065088
+  },
+  {
+    "ticker": "ECL",
+    "company": "Ecolab Inc.",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "St. Paul, Minnesota",
+    "dateAdded": "1989-01-31",
+    "cik": 31462
+  },
+  {
+    "ticker": "EIX",
+    "company": "Edison Int'l",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Rosemead, California",
+    "dateAdded": null,
+    "cik": 827052
+  },
+  {
+    "ticker": "EW",
+    "company": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Irvine, California",
+    "dateAdded": "2011-04-01",
+    "cik": 1099800
+  },
+  {
+    "ticker": "EA",
+    "company": "Electronic Arts",
+    "sector": "Information Technology",
+    "industry": "Home Entertainment Software",
+    "hq": "Redwood City, California",
+    "dateAdded": "2002-07-22",
+    "cik": 712515
+  },
+  {
+    "ticker": "EMR",
+    "company": "Emerson Electric company",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hq": "Ferguson, Missouri",
+    "dateAdded": "1965-03-31",
+    "cik": 32604
+  },
+  {
+    "ticker": "ETR",
+    "company": "Entergy Corp.",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "New Orleans, Louisiana",
+    "dateAdded": null,
+    "cik": 65984
+  },
+  {
+    "ticker": "EVHC",
+    "company": "Envision Healthcare",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hq": "Nashville, Tennessee",
+    "dateAdded": "2016-12-02",
+    "cik": 895930
+  },
+  {
+    "ticker": "EOG",
+    "company": "EOG Resources",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": "2000-11-02",
+    "cik": 821189
+  },
+  {
+    "ticker": "EQT",
+    "company": "EQT Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Pittsburgh, Pennsylvania",
+    "dateAdded": "2008-12-19",
+    "cik": 33213
+  },
+  {
+    "ticker": "EFX",
+    "company": "Equifax Inc.",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "1997-06-19",
+    "cik": 33185
+  },
+  {
+    "ticker": "EQIX",
+    "company": "Equinix",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Redwood City, California",
+    "dateAdded": "2015-03-20",
+    "cik": 1101239
+  },
+  {
+    "ticker": "EQR",
+    "company": "Equity Residential",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2001-12-03",
+    "cik": 906107
+  },
+  {
+    "ticker": "ESS",
+    "company": "Essex Property Trust, Inc.",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Palo Alto, California",
+    "dateAdded": "2014-04-02",
+    "cik": 920522
+  },
+  {
+    "ticker": "EL",
+    "company": "Estee Lauder Cos.",
+    "sector": "Consumer Staples",
+    "industry": "Personal Products",
+    "hq": "New York, New York",
+    "dateAdded": "2006-01-05",
+    "cik": 1001250
+  },
+  {
+    "ticker": "ES",
+    "company": "Eversource Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Springfield, Massachusetts",
+    "dateAdded": null,
+    "cik": 72741
+  },
+  {
+    "ticker": "RE",
+    "company": "Everest Re Group Ltd",
+    "sector": "Financials",
+    "industry": "Reinsurance",
+    "hq": "Hamilton, Bermuda",
+    "dateAdded": "2017-06-19",
+    "cik": 1095073
+  },
+  {
+    "ticker": "EXC",
+    "company": "Exelon Corp.",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Chicago, Illinois",
+    "dateAdded": null,
+    "cik": 1109357
+  },
+  {
+    "ticker": "EXPE",
+    "company": "Expedia Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet & Direct Marketing Retail",
+    "hq": "Bellevue, Washington",
+    "dateAdded": "2007-10-02",
+    "cik": 1324424
+  },
+  {
+    "ticker": "EXPD",
+    "company": "Expeditors International",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": "Seattle, Washington",
+    "dateAdded": "2007-10-10",
+    "cik": 746515
+  },
+  {
+    "ticker": "ESRX",
+    "company": "Express Scripts",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "Cool Valley, Missouri",
+    "dateAdded": "2003-09-25",
+    "cik": 1532063
+  },
+  {
+    "ticker": "EXR",
+    "company": "Extra Space Storage",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Salt Lake City, Utah",
+    "dateAdded": "2016-01-19",
+    "cik": 1289490
+  },
+  {
+    "ticker": "XOM",
+    "company": "Exxon Mobil Corp.",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hq": "Irving, Texas",
+    "dateAdded": null,
+    "cik": 34088
+  },
+  {
+    "ticker": "FFIV",
+    "company": "F5 Networks",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": "Seattle, Washington",
+    "dateAdded": "2010-12-20",
+    "cik": 1048695
+  },
+  {
+    "ticker": "FB",
+    "company": "Facebook, Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Menlo Park, California",
+    "dateAdded": "2013-12-23",
+    "cik": 1326801
+  },
+  {
+    "ticker": "FAST",
+    "company": "Fastenal Co",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Winona, Minnesota",
+    "dateAdded": "2009-09-15",
+    "cik": 815556
+  },
+  {
+    "ticker": "FRT",
+    "company": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "Rockville, Maryland",
+    "dateAdded": "2016-02-01",
+    "cik": 34903
+  },
+  {
+    "ticker": "FDX",
+    "company": "FedEx Corporation",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": "Memphis, Tennessee",
+    "dateAdded": "1980-12-31",
+    "cik": 1048911
+  },
+  {
+    "ticker": "FIS",
+    "company": "Fidelity National Information Services",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Jacksonville, Florida",
+    "dateAdded": "2006-11-10",
+    "cik": 1136893
+  },
+  {
+    "ticker": "FITB",
+    "company": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Cincinnati, Ohio",
+    "dateAdded": null,
+    "cik": 35527
+  },
+  {
+    "ticker": "FE",
+    "company": "FirstEnergy Corp",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Akron, Ohio",
+    "dateAdded": null,
+    "cik": 1031296
+  },
+  {
+    "ticker": "FISV",
+    "company": "Fiserv Inc",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Brookfield, Wisconsin",
+    "dateAdded": "2001-04-02",
+    "cik": 798354
+  },
+  {
+    "ticker": "FLIR",
+    "company": "FLIR Systems",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment & Instruments",
+    "hq": "Wilsonville, Oregon",
+    "dateAdded": "2009-01-02",
+    "cik": 354908
+  },
+  {
+    "ticker": "FLS",
+    "company": "Flowserve Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Irving, Texas",
+    "dateAdded": "2008-10-02",
+    "cik": 30625
+  },
+  {
+    "ticker": "FLR",
+    "company": "Fluor Corp.",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hq": "Irving, Texas",
+    "dateAdded": "1980-03-31",
+    "cik": 1124198
+  },
+  {
+    "ticker": "FMC",
+    "company": "FMC Corporation",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hq": "Philadelphia, Pennsylvania",
+    "dateAdded": "2009-08-19",
+    "cik": 37785
+  },
+  {
+    "ticker": "FL",
+    "company": "Foot Locker Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hq": "New York, New York",
+    "dateAdded": "2016-04-04",
+    "cik": 850209
+  },
+  {
+    "ticker": "F",
+    "company": "Ford Motor",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": "Dearborn, Michigan",
+    "dateAdded": null,
+    "cik": 37996
+  },
+  {
+    "ticker": "FTV",
+    "company": "Fortive Corp",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Everett, Washington",
+    "dateAdded": "2016-07-01",
+    "cik": 1659166
+  },
+  {
+    "ticker": "FBHS",
+    "company": "Fortune Brands Home & Security",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Deerfield, Illinois",
+    "dateAdded": "2016-06-22",
+    "cik": 1519751
+  },
+  {
+    "ticker": "BEN",
+    "company": "Franklin Resources",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "San Mateo, California",
+    "dateAdded": null,
+    "cik": 38777
+  },
+  {
+    "ticker": "FCX",
+    "company": "Freeport-McMoRan Inc.",
+    "sector": "Materials",
+    "industry": "Copper",
+    "hq": "Phoenix, Arizona",
+    "dateAdded": null,
+    "cik": 831259
+  },
+  {
+    "ticker": "GPS",
+    "company": "Gap Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hq": "San Francisco, California",
+    "dateAdded": "1986-08-31",
+    "cik": 39911
+  },
+  {
+    "ticker": "GRMN",
+    "company": "Garmin Ltd.",
+    "sector": "Consumer Discretionary",
+    "industry": "Consumer Electronics",
+    "hq": "Schaffhausen, Switzerland",
+    "dateAdded": "2012-12-12",
+    "cik": 1121788
+  },
+  {
+    "ticker": "IT",
+    "company": "Gartner Inc",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Stamford, Connecticut",
+    "dateAdded": "2017-04-05",
+    "cik": 749251
+  },
+  {
+    "ticker": "GD",
+    "company": "General Dynamics",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Falls Church, Virginia",
+    "dateAdded": null,
+    "cik": 40533
+  },
+  {
+    "ticker": "GE",
+    "company": "General Electric",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hq": "Fairfield, Connecticut",
+    "dateAdded": null,
+    "cik": 40545
+  },
+  {
+    "ticker": "GGP",
+    "company": "General Growth Properties Inc.",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2013-12-10",
+    "cik": 895648
+  },
+  {
+    "ticker": "GIS",
+    "company": "General Mills",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Golden Valley, Minnesota",
+    "dateAdded": "1969-03-31",
+    "cik": 40704
+  },
+  {
+    "ticker": "GM",
+    "company": "General Motors",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "hq": "Detroit, Michigan",
+    "dateAdded": "2013-06-06",
+    "cik": 1467858
+  },
+  {
+    "ticker": "GPC",
+    "company": "Genuine Parts",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "1973-12-31",
+    "cik": 40987
+  },
+  {
+    "ticker": "GILD",
+    "company": "Gilead Sciences",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Foster City, California",
+    "dateAdded": "2004-07-01",
+    "cik": 882095
+  },
+  {
+    "ticker": "GPN",
+    "company": "Global Payments Inc",
+    "sector": "Information Technology",
+    "industry": "Data Processing & Outsourced Services",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2016-04-25",
+    "cik": 1123360
+  },
+  {
+    "ticker": "GS",
+    "company": "Goldman Sachs Group",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hq": "New York, New York",
+    "dateAdded": "2002-07-22",
+    "cik": 886982
+  },
+  {
+    "ticker": "GT",
+    "company": "Goodyear Tire & Rubber",
+    "sector": "Consumer Discretionary",
+    "industry": "Tires & Rubber",
+    "hq": "Akron, Ohio",
+    "dateAdded": null,
+    "cik": 42582
+  },
+  {
+    "ticker": "GWW",
+    "company": "Grainger (W.W.) Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Lake Forest, Illinois",
+    "dateAdded": "1981-06-30",
+    "cik": 277135
+  },
+  {
+    "ticker": "HAL",
+    "company": "Halliburton Co.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": "Houston, Texas",
+    "dateAdded": null,
+    "cik": 45012
+  },
+  {
+    "ticker": "HBI",
+    "company": "Hanesbrands Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "Winston-Salem, North Carolina",
+    "dateAdded": "2015-03-20",
+    "cik": 1359841
+  },
+  {
+    "ticker": "HOG",
+    "company": "Harley-Davidson",
+    "sector": "Consumer Discretionary",
+    "industry": "Motorcycle Manufacturers",
+    "hq": "Milwaukee, Wisconsin",
+    "dateAdded": null,
+    "cik": 793952
+  },
+  {
+    "ticker": "HRS",
+    "company": "Harris Corporation",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": "Melbourne, Florida",
+    "dateAdded": "2008-09-22",
+    "cik": 202058
+  },
+  {
+    "ticker": "HIG",
+    "company": "Hartford Financial Svc.Gp.",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Hartford, Connecticut",
+    "dateAdded": null,
+    "cik": 874766
+  },
+  {
+    "ticker": "HAS",
+    "company": "Hasbro Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Leisure Products",
+    "hq": "Pawtucket, Rhode Island",
+    "dateAdded": "1984-09-30",
+    "cik": 46080
+  },
+  {
+    "ticker": "HCA",
+    "company": "HCA Holdings",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "hq": "Nashville, Tennessee",
+    "dateAdded": "2015-01-27",
+    "cik": 860730
+  },
+  {
+    "ticker": "HCP",
+    "company": "HCP Inc.",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hq": "Long Beach, California",
+    "dateAdded": "2008-03-31",
+    "cik": 765880
+  },
+  {
+    "ticker": "HP",
+    "company": "Helmerich & Payne",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "hq": "Tulsa, Oklahoma[5]",
+    "dateAdded": "2010-03-01",
+    "cik": 46765
+  },
+  {
+    "ticker": "HSIC",
+    "company": "Henry Schein",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "Melville, New York",
+    "dateAdded": "2015-03-17",
+    "cik": 1000228
+  },
+  {
+    "ticker": "HSY",
+    "company": "The Hershey company",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Hershey, Pennsylvania",
+    "dateAdded": null,
+    "cik": 47111
+  },
+  {
+    "ticker": "HES",
+    "company": "Hess Corporation",
+    "sector": "Energy",
+    "industry": "Integrated Oil & Gas",
+    "hq": "New York, New York",
+    "dateAdded": "1984-05-31",
+    "cik": 4447
+  },
+  {
+    "ticker": "HPE",
+    "company": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Palo Alto, California",
+    "dateAdded": "2015-11-02",
+    "cik": 1645590
+  },
+  {
+    "ticker": "HLT",
+    "company": "Hilton Worldwide Holdings Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hq": "Tysons Corner, Virginia",
+    "dateAdded": "2017-06-19",
+    "cik": 1585689
+  },
+  {
+    "ticker": "HOLX",
+    "company": "Hologic",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Marlborough, Massachusetts",
+    "dateAdded": "2016-03-30",
+    "cik": 859737
+  },
+  {
+    "ticker": "HD",
+    "company": "Home Depot",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "1988-03-31",
+    "cik": 354950
+  },
+  {
+    "ticker": "HON",
+    "company": "Honeywell Int'l Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hq": "Morristown, New Jersey",
+    "dateAdded": "1964-03-31",
+    "cik": 773840
+  },
+  {
+    "ticker": "HRL",
+    "company": "Hormel Foods Corp.",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Austin, Minnesota",
+    "dateAdded": "2009-03-04",
+    "cik": 48465
+  },
+  {
+    "ticker": "HST",
+    "company": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "industry": "Hotel & Resort REITs",
+    "hq": "Bethesda, Maryland",
+    "dateAdded": "2007-03-20",
+    "cik": 1070750
+  },
+  {
+    "ticker": "HPQ",
+    "company": "HP Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Palo Alto, California",
+    "dateAdded": "1974-12-31",
+    "cik": 47217
+  },
+  {
+    "ticker": "HUM",
+    "company": "Humana Inc.",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "Louisville, Kentucky",
+    "dateAdded": null,
+    "cik": 49071
+  },
+  {
+    "ticker": "HBAN",
+    "company": "Huntington Bancshares",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Columbus, Ohio",
+    "dateAdded": null,
+    "cik": 49196
+  },
+  {
+    "ticker": "IDXX",
+    "company": "IDEXX Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Westbrook, Maine",
+    "dateAdded": "2017-01-05",
+    "cik": 874716
+  },
+  {
+    "ticker": "INFO",
+    "company": "IHS Markit Ltd.",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hq": "London, United Kingdom",
+    "dateAdded": "2017-06-02",
+    "cik": 1598014
+  },
+  {
+    "ticker": "ITW",
+    "company": "Illinois Tool Works",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Glenview, Illinois",
+    "dateAdded": "1986-02-28",
+    "cik": 49826
+  },
+  {
+    "ticker": "ILMN",
+    "company": "Illumina Inc",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hq": "San Diego, California",
+    "dateAdded": "2015-11-19",
+    "cik": 1110803
+  },
+  {
+    "ticker": "IR",
+    "company": "Ingersoll-Rand PLC",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "2010-11-17",
+    "cik": 1466258
+  },
+  {
+    "ticker": "INTC",
+    "company": "Intel Corp.",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Santa Clara, California",
+    "dateAdded": "1976-12-31",
+    "cik": 50863
+  },
+  {
+    "ticker": "ICE",
+    "company": "Intercontinental Exchange",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2007-09-26",
+    "cik": 1571949
+  },
+  {
+    "ticker": "IBM",
+    "company": "International Business Machines",
+    "sector": "Information Technology",
+    "industry": "IT Consulting & Other Services",
+    "hq": "Armonk, New York",
+    "dateAdded": null,
+    "cik": 51143
+  },
+  {
+    "ticker": "INCY",
+    "company": "Incyte",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Wilmington, Delaware",
+    "dateAdded": "2017-02-28",
+    "cik": 879169
+  },
+  {
+    "ticker": "IP",
+    "company": "International Paper",
+    "sector": "Materials",
+    "industry": "Paper Packaging",
+    "hq": "Memphis, Tennessee",
+    "dateAdded": null,
+    "cik": 51434
+  },
+  {
+    "ticker": "IPG",
+    "company": "Interpublic Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Advertising",
+    "hq": "New York, New York",
+    "dateAdded": "1992-10-01",
+    "cik": 51644
+  },
+  {
+    "ticker": "IFF",
+    "company": "Intl Flavors & Fragrances",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "New York, New York",
+    "dateAdded": "1976-03-31",
+    "cik": 51253
+  },
+  {
+    "ticker": "INTU",
+    "company": "Intuit Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Mountain View, California",
+    "dateAdded": "2000-12-05",
+    "cik": 896878
+  },
+  {
+    "ticker": "ISRG",
+    "company": "Intuitive Surgical Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Sunnyvale, California",
+    "dateAdded": "2008-06-02",
+    "cik": 1035267
+  },
+  {
+    "ticker": "IVZ",
+    "company": "Invesco Ltd.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2008-08-21",
+    "cik": 914208
+  },
+  {
+    "ticker": "IRM",
+    "company": "Iron Mountain Incorporated",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Boston, Massachusetts",
+    "dateAdded": "2009-01-06",
+    "cik": 1020569
+  },
+  {
+    "ticker": "JEC",
+    "company": "Jacobs Engineering Group",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hq": "Pasadena, California",
+    "dateAdded": "2007-10-26",
+    "cik": 52988
+  },
+  {
+    "ticker": "JBHT",
+    "company": "J. B. Hunt Transport Services",
+    "sector": "Industrials",
+    "industry": "Trucking",
+    "hq": "Lowell, Arkansas",
+    "dateAdded": "2015-07-01",
+    "cik": 728535
+  },
+  {
+    "ticker": "SJM",
+    "company": "JM Smucker",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Orrville, Ohio",
+    "dateAdded": "2008-11-06",
+    "cik": 91419
+  },
+  {
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "New Brunswick, New Jersey",
+    "dateAdded": "1973-06-30",
+    "cik": 200406
+  },
+  {
+    "ticker": "JCI",
+    "company": "Johnson Controls International",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Cork, Ireland",
+    "dateAdded": "2010-08-27",
+    "cik": 833444
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "New York, New York",
+    "dateAdded": "1975-06-30",
+    "cik": 19617
+  },
+  {
+    "ticker": "JNPR",
+    "company": "Juniper Networks",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": "Sunnyvale, California",
+    "dateAdded": null,
+    "cik": 1043604
+  },
+  {
+    "ticker": "KSU",
+    "company": "Kansas City Southern",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "hq": "Kansas City, Missouri",
+    "dateAdded": "2013-05-24",
+    "cik": 54480
+  },
+  {
+    "ticker": "K",
+    "company": "Kellogg Co.",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Battle Creek, Michigan",
+    "dateAdded": null,
+    "cik": 55067
+  },
+  {
+    "ticker": "KEY",
+    "company": "KeyCorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Cleveland, Ohio",
+    "dateAdded": "1994-03-01",
+    "cik": 91576
+  },
+  {
+    "ticker": "KMB",
+    "company": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "hq": "Irving, Texas",
+    "dateAdded": null,
+    "cik": 55785
+  },
+  {
+    "ticker": "KIM",
+    "company": "Kimco Realty",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "New Hyde Park, New York",
+    "dateAdded": "2006-04-04",
+    "cik": 879101
+  },
+  {
+    "ticker": "KMI",
+    "company": "Kinder Morgan",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hq": "Houston, Texas",
+    "dateAdded": "2012-05-25",
+    "cik": 1506307
+  },
+  {
+    "ticker": "KLAC",
+    "company": "KLA-Tencor Corp.",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": "Milpitas, California",
+    "dateAdded": null,
+    "cik": 319201
+  },
+  {
+    "ticker": "KSS",
+    "company": "Kohl's Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "General Merchandise Stores",
+    "hq": "Menomonee Falls, Wisconsin",
+    "dateAdded": null,
+    "cik": 885639
+  },
+  {
+    "ticker": "KHC",
+    "company": "Kraft Heinz Co",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Pittsburgh, Pennsylvania",
+    "dateAdded": "2015-07-06",
+    "cik": 1637459
+  },
+  {
+    "ticker": "KR",
+    "company": "Kroger Co.",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "hq": "Cincinnati, Ohio",
+    "dateAdded": null,
+    "cik": 56873
+  },
+  {
+    "ticker": "LB",
+    "company": "L Brands Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hq": "Columbus, Ohio",
+    "dateAdded": "1983-09-30",
+    "cik": 701985
+  },
+  {
+    "ticker": "LLL",
+    "company": "L-3 Communications Holdings",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1056239
+  },
+  {
+    "ticker": "LH",
+    "company": "Laboratory Corp. of America Holding",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hq": "Burlington, North Carolina",
+    "dateAdded": "2004-11-01",
+    "cik": 920148
+  },
+  {
+    "ticker": "LRCX",
+    "company": "Lam Research",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Equipment",
+    "hq": "Fremont, California",
+    "dateAdded": "2012-06-29",
+    "cik": 707549
+  },
+  {
+    "ticker": "LEG",
+    "company": "Leggett & Platt",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Furnishings",
+    "hq": "Carthage, Missouri",
+    "dateAdded": null,
+    "cik": 58492
+  },
+  {
+    "ticker": "LEN",
+    "company": "Lennar Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hq": "Miami, Florida",
+    "dateAdded": "2005-10-04",
+    "cik": 920760
+  },
+  {
+    "ticker": "LVLT",
+    "company": "Level 3 Communications",
+    "sector": "Telecommunication Services",
+    "industry": "Alternative Carriers",
+    "hq": "Broomfield, Colorado",
+    "dateAdded": "2014-11-05",
+    "cik": 794323
+  },
+  {
+    "ticker": "LUK",
+    "company": "Leucadia National Corp.",
+    "sector": "Financials",
+    "industry": "Multi-sector Holdings",
+    "hq": "New York, New York",
+    "dateAdded": "2007-08-27",
+    "cik": 96223
+  },
+  {
+    "ticker": "LLY",
+    "company": "Lilly (Eli) & Co.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Indianapolis, Indiana",
+    "dateAdded": "1970-12-31",
+    "cik": 59478
+  },
+  {
+    "ticker": "LNC",
+    "company": "Lincoln National",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hq": "Radnor, Pennsylvania",
+    "dateAdded": "1976-06-30",
+    "cik": 59558
+  },
+  {
+    "ticker": "LKQ",
+    "company": "LKQ Corporation",
+    "sector": "Consumer Discretionary",
+    "industry": "Distributors",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2016-05-23",
+    "cik": 1065696
+  },
+  {
+    "ticker": "LMT",
+    "company": "Lockheed Martin Corp.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Bethesda, Maryland",
+    "dateAdded": "1984-07-31",
+    "cik": 936468
+  },
+  {
+    "ticker": "L",
+    "company": "Loews Corp.",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 60086
+  },
+  {
+    "ticker": "LOW",
+    "company": "Lowe's Cos.",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "hq": "Mooresville, North Carolina",
+    "dateAdded": "1984-02-29",
+    "cik": 60667
+  },
+  {
+    "ticker": "LYB",
+    "company": "LyondellBasell",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "Rotterdam, Netherlands",
+    "dateAdded": "2012-09-05",
+    "cik": 1489393
+  },
+  {
+    "ticker": "MTB",
+    "company": "M&T Bank Corp.",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Buffalo, New York",
+    "dateAdded": null,
+    "cik": 36270
+  },
+  {
+    "ticker": "MAC",
+    "company": "Macerich",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "Santa Monica, California",
+    "dateAdded": "2013-05-09",
+    "cik": 912242
+  },
+  {
+    "ticker": "M",
+    "company": "Macy's Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Department Stores",
+    "hq": "Cincinnati, Ohio",
+    "dateAdded": null,
+    "cik": 794367
+  },
+  {
+    "ticker": "MRO",
+    "company": "Marathon Oil Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": "1991-05-01",
+    "cik": 101778
+  },
+  {
+    "ticker": "MPC",
+    "company": "Marathon Petroleum",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hq": "Findlay, Ohio",
+    "dateAdded": "2011-07-01",
+    "cik": 1510295
+  },
+  {
+    "ticker": "MAR",
+    "company": "Marriott Int'l.",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hq": "Bethesda, Maryland",
+    "dateAdded": null,
+    "cik": 1048286
+  },
+  {
+    "ticker": "MMC",
+    "company": "Marsh & McLennan",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hq": "New York, New York",
+    "dateAdded": "1987-08-31",
+    "cik": 62709
+  },
+  {
+    "ticker": "MLM",
+    "company": "Martin Marietta Materials",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "hq": "Raleigh, North Carolina",
+    "dateAdded": "2014-07-02",
+    "cik": 916076
+  },
+  {
+    "ticker": "MAS",
+    "company": "Masco Corp.",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "hq": "Taylor, Michigan",
+    "dateAdded": "1981-06-30",
+    "cik": 62996
+  },
+  {
+    "ticker": "MA",
+    "company": "Mastercard Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Harrison, New York",
+    "dateAdded": "2008-07-18",
+    "cik": 1141391
+  },
+  {
+    "ticker": "MAT",
+    "company": "Mattel Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Leisure Products",
+    "hq": "El Segundo, California",
+    "dateAdded": "1982-03-31",
+    "cik": 63276
+  },
+  {
+    "ticker": "MKC",
+    "company": "McCormick & Co.",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Sparks, Maryland",
+    "dateAdded": null,
+    "cik": 63754
+  },
+  {
+    "ticker": "MCD",
+    "company": "McDonald's Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": "Oak Brook, Illinois",
+    "dateAdded": "1970-06-30",
+    "cik": 63908
+  },
+  {
+    "ticker": "MCK",
+    "company": "McKesson Corp.",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "San Francisco, California",
+    "dateAdded": null,
+    "cik": 927653
+  },
+  {
+    "ticker": "MDT",
+    "company": "Medtronic plc",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "1986-10-31",
+    "cik": 64670
+  },
+  {
+    "ticker": "MRK",
+    "company": "Merck & Co.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Whitehouse Station, New Jersey",
+    "dateAdded": null,
+    "cik": 310158
+  },
+  {
+    "ticker": "MET",
+    "company": "MetLife Inc.",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1099219
+  },
+  {
+    "ticker": "MTD",
+    "company": "Mettler Toledo",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools & Services",
+    "hq": "Columbus, Ohio",
+    "dateAdded": "2016-09-06",
+    "cik": 1037646
+  },
+  {
+    "ticker": "MGM",
+    "company": "MGM Resorts International",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos & Gaming",
+    "hq": "Paradise, Nevada",
+    "dateAdded": "2017-07-26",
+    "cik": 789570
+  },
+  {
+    "ticker": "KORS",
+    "company": "Michael Kors Holdings",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "New York, New York",
+    "dateAdded": "2013-11-13",
+    "cik": 1530721
+  },
+  {
+    "ticker": "MCHP",
+    "company": "Microchip Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Chandler, Arizona",
+    "dateAdded": "2007-09-07",
+    "cik": 827054
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Boise, Idaho",
+    "dateAdded": "1994-09-27",
+    "cik": 723125
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": "Redmond, Washington",
+    "dateAdded": "1994-06-01",
+    "cik": 789019
+  },
+  {
+    "ticker": "MAA",
+    "company": "Mid-America Apartments",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Memphis, Tennessee",
+    "dateAdded": "2016-12-02",
+    "cik": 912595
+  },
+  {
+    "ticker": "MHK",
+    "company": "Mohawk Industries",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Furnishings",
+    "hq": "Amsterdam, New York",
+    "dateAdded": "2013-12-23",
+    "cik": 851968
+  },
+  {
+    "ticker": "TAP",
+    "company": "Molson Coors Brewing company",
+    "sector": "Consumer Staples",
+    "industry": "Brewers",
+    "hq": "Denver, Colorado",
+    "dateAdded": "1976-06-30",
+    "cik": 24545
+  },
+  {
+    "ticker": "MDLZ",
+    "company": "Mondelez International",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Northfield, Illinois",
+    "dateAdded": "2012-10-02",
+    "cik": 1103982
+  },
+  {
+    "ticker": "MON",
+    "company": "Monsanto Co.",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hq": "Creve Coeur, Missouri",
+    "dateAdded": "2002-08-07",
+    "cik": 1110783
+  },
+  {
+    "ticker": "MNST",
+    "company": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks",
+    "hq": "Corona, California",
+    "dateAdded": "2012-06-28",
+    "cik": 865752
+  },
+  {
+    "ticker": "MCO",
+    "company": "Moody's Corp",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1059556
+  },
+  {
+    "ticker": "MS",
+    "company": "Morgan Stanley",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 895421
+  },
+  {
+    "ticker": "MOS",
+    "company": "The Mosaic company",
+    "sector": "Materials",
+    "industry": "Fertilizers & Agricultural Chemicals",
+    "hq": "Plymouth, Minnesota",
+    "dateAdded": "2011-09-26",
+    "cik": 1285785
+  },
+  {
+    "ticker": "MSI",
+    "company": "Motorola Solutions Inc.",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "hq": "Schaumburg, Illinois",
+    "dateAdded": null,
+    "cik": 68505
+  },
+  {
+    "ticker": "MYL",
+    "company": "Mylan N.V.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Amsterdam, Netherlands",
+    "dateAdded": "2004-04-23",
+    "cik": 69499
+  },
+  {
+    "ticker": "NDAQ",
+    "company": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "New York, New York",
+    "dateAdded": "2008-10-22",
+    "cik": 1120193
+  },
+  {
+    "ticker": "NOV",
+    "company": "National Oilwell Varco Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": "Houston, Texas",
+    "dateAdded": "2005-03-14",
+    "cik": 1021860
+  },
+  {
+    "ticker": "NAVI",
+    "company": "Navient",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "Wilmington, Delaware",
+    "dateAdded": "2014-05-01",
+    "cik": 1593538
+  },
+  {
+    "ticker": "NTAP",
+    "company": "NetApp",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Sunnyvale, California",
+    "dateAdded": "1999-06-25",
+    "cik": 1002047
+  },
+  {
+    "ticker": "NFLX",
+    "company": "Netflix Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Los Gatos, California",
+    "dateAdded": "2010-12-20",
+    "cik": 1065280
+  },
+  {
+    "ticker": "NWL",
+    "company": "Newell Brands",
+    "sector": "Consumer Discretionary",
+    "industry": "Housewares & Specialties",
+    "hq": "Sandy Springs, Georgia",
+    "dateAdded": "1989-04-30",
+    "cik": 814453
+  },
+  {
+    "ticker": "NFX",
+    "company": "Newfield Exploration Co",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": "2010-12-20",
+    "cik": 912750
+  },
+  {
+    "ticker": "NEM",
+    "company": "Newmont Mining Corporation",
+    "sector": "Materials",
+    "industry": "Gold",
+    "hq": "Denver, Colorado",
+    "dateAdded": "1969-06-30",
+    "cik": 1164727
+  },
+  {
+    "ticker": "NWSA",
+    "company": "News Corp. Class A",
+    "sector": "Consumer Discretionary",
+    "industry": "Publishing",
+    "hq": "New York, New York",
+    "dateAdded": "2013-08-01",
+    "cik": 1564708
+  },
+  {
+    "ticker": "NWS",
+    "company": "News Corp. Class B",
+    "sector": "Consumer Discretionary",
+    "industry": "Publishing",
+    "hq": "New York, New York",
+    "dateAdded": "2015-09-18",
+    "cik": 1564708
+  },
+  {
+    "ticker": "NEE",
+    "company": "NextEra Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Juno Beach, Florida",
+    "dateAdded": "1976-06-30",
+    "cik": 753308
+  },
+  {
+    "ticker": "NLSN",
+    "company": "Nielsen Holdings",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hq": "New York, New York",
+    "dateAdded": "2013-07-09",
+    "cik": 1492633
+  },
+  {
+    "ticker": "NKE",
+    "company": "Nike",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "Washington County, Oregon",
+    "dateAdded": "1988-11-30",
+    "cik": 320187
+  },
+  {
+    "ticker": "NI",
+    "company": "NiSource Inc.",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Merrillville, Indiana",
+    "dateAdded": null,
+    "cik": 1111711
+  },
+  {
+    "ticker": "NBL",
+    "company": "Noble Energy Inc",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Houston, Texas",
+    "dateAdded": "2007-10-08",
+    "cik": 72207
+  },
+  {
+    "ticker": "JWN",
+    "company": "Nordstrom",
+    "sector": "Consumer Discretionary",
+    "industry": "Department Stores",
+    "hq": "Seattle, Washington",
+    "dateAdded": "1986-08-31",
+    "cik": 72333
+  },
+  {
+    "ticker": "NSC",
+    "company": "Norfolk Southern Corp.",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "hq": "Norfolk, Virginia",
+    "dateAdded": null,
+    "cik": 702165
+  },
+  {
+    "ticker": "NTRS",
+    "company": "Northern Trust Corp.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Chicago, Illinois",
+    "dateAdded": null,
+    "cik": 73124
+  },
+  {
+    "ticker": "NOC",
+    "company": "Northrop Grumman Corp.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "West Falls Church, Virginia",
+    "dateAdded": "1985-06-30",
+    "cik": 1133421
+  },
+  {
+    "ticker": "NRG",
+    "company": "NRG Energy",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers & Energy Traders",
+    "hq": "Princeton, New Jersey",
+    "dateAdded": "2010-01-29",
+    "cik": 1013871
+  },
+  {
+    "ticker": "NUE",
+    "company": "Nucor Corp.",
+    "sector": "Materials",
+    "industry": "Steel",
+    "hq": "Charlotte, North Carolina",
+    "dateAdded": "1985-04-30",
+    "cik": 73309
+  },
+  {
+    "ticker": "NVDA",
+    "company": "Nvidia Corporation",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Santa Clara, California",
+    "dateAdded": "2001-11-30",
+    "cik": 1045810
+  },
+  {
+    "ticker": "ORLY",
+    "company": "O'Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Springfield, Missouri",
+    "dateAdded": "2009-03-27",
+    "cik": 898173
+  },
+  {
+    "ticker": "OXY",
+    "company": "Occidental Petroleum",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Los Angeles, California",
+    "dateAdded": "1982-12-31",
+    "cik": 797468
+  },
+  {
+    "ticker": "OMC",
+    "company": "Omnicom Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Advertising",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 29989
+  },
+  {
+    "ticker": "OKE",
+    "company": "ONEOK",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hq": "Tulsa, Oklahoma",
+    "dateAdded": "2010-03-15",
+    "cik": 1039684
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle Corp.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "Redwood Shores, California",
+    "dateAdded": "1989-08-31",
+    "cik": 1341439
+  },
+  {
+    "ticker": "PCAR",
+    "company": "PACCAR Inc.",
+    "sector": "Industrials",
+    "industry": "Construction Machinery & Heavy Trucks",
+    "hq": "Bellevue, Washington",
+    "dateAdded": "1980-12-31",
+    "cik": 75362
+  },
+  {
+    "ticker": "PKG",
+    "company": "Packaging Corporation of America",
+    "sector": "Materials",
+    "industry": "Paper Packaging",
+    "hq": "Lake Forest, Illinois",
+    "dateAdded": "2017-07-26",
+    "cik": 75677
+  },
+  {
+    "ticker": "PH",
+    "company": "Parker-Hannifin",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Cleveland, Ohio",
+    "dateAdded": "1985-11-30",
+    "cik": 76334
+  },
+  {
+    "ticker": "PDCO",
+    "company": "Patterson Companies",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "hq": "St. Paul, Minnesota",
+    "dateAdded": "2005-10-11",
+    "cik": 891024
+  },
+  {
+    "ticker": "PAYX",
+    "company": "Paychex Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Penfield, New York",
+    "dateAdded": null,
+    "cik": 723531
+  },
+  {
+    "ticker": "PYPL",
+    "company": "PayPal",
+    "sector": "Information Technology",
+    "industry": "Data Processing & Outsourced Services",
+    "hq": "San Jose, California",
+    "dateAdded": "2015-07-20",
+    "cik": 1633917
+  },
+  {
+    "ticker": "PNR",
+    "company": "Pentair Ltd.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "Worsley, UK",
+    "dateAdded": "2012-10-01",
+    "cik": 77360
+  },
+  {
+    "ticker": "PBCT",
+    "company": "People's United Financial",
+    "sector": "Financials",
+    "industry": "Thrifts & Mortgage Finance",
+    "hq": "Bridgeport, Connecticut",
+    "dateAdded": "2008-11-13",
+    "cik": 1378946
+  },
+  {
+    "ticker": "PEP",
+    "company": "PepsiCo Inc.",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks",
+    "hq": "Purchase, New York",
+    "dateAdded": null,
+    "cik": 77476
+  },
+  {
+    "ticker": "PKI",
+    "company": "PerkinElmer",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Waltham, Massachusetts",
+    "dateAdded": "1985-05-31",
+    "cik": 31791
+  },
+  {
+    "ticker": "PRGO",
+    "company": "Perrigo",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "2011-12-19",
+    "cik": 1585364
+  },
+  {
+    "ticker": "PFE",
+    "company": "Pfizer Inc.",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 78003
+  },
+  {
+    "ticker": "PCG",
+    "company": "PG&E Corp.",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "San Francisco, California",
+    "dateAdded": null,
+    "cik": 1004980
+  },
+  {
+    "ticker": "PM",
+    "company": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "hq": "New York, New York",
+    "dateAdded": "2008-03-31",
+    "cik": 1413329
+  },
+  {
+    "ticker": "PSX",
+    "company": "Phillips 66",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hq": "Houston, Texas",
+    "dateAdded": "2012-05-01",
+    "cik": 1534701
+  },
+  {
+    "ticker": "PNW",
+    "company": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Phoenix, Arizona",
+    "dateAdded": null,
+    "cik": 764622
+  },
+  {
+    "ticker": "PXD",
+    "company": "Pioneer Natural Resources",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Irving, Texas",
+    "dateAdded": "2008-09-24",
+    "cik": 1038357
+  },
+  {
+    "ticker": "PNC",
+    "company": "PNC Financial Services",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Pittsburgh, Pennsylvania",
+    "dateAdded": "1988-04-30",
+    "cik": 713676
+  },
+  {
+    "ticker": "RL",
+    "company": "Polo Ralph Lauren Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "New York, New York",
+    "dateAdded": "2007-02-02",
+    "cik": 1037038
+  },
+  {
+    "ticker": "PPG",
+    "company": "PPG Industries",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "Pittsburgh, Pennsylvania",
+    "dateAdded": null,
+    "cik": 79879
+  },
+  {
+    "ticker": "PPL",
+    "company": "PPL Corp.",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Allentown, Pennsylvania",
+    "dateAdded": null,
+    "cik": 922224
+  },
+  {
+    "ticker": "PX",
+    "company": "Praxair Inc.",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "hq": "Danbury, Connecticut",
+    "dateAdded": "1992-07-01",
+    "cik": 884905
+  },
+  {
+    "ticker": "PCLN",
+    "company": "Priceline.com Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet & Direct Marketing Retail",
+    "hq": "Norwalk, Connecticut",
+    "dateAdded": "2009-11-06",
+    "cik": 1075531
+  },
+  {
+    "ticker": "PFG",
+    "company": "Principal Financial Group",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "Des Moines, Iowa",
+    "dateAdded": "2002-07-22",
+    "cik": 1126328
+  },
+  {
+    "ticker": "PG",
+    "company": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "industry": "Personal Products",
+    "hq": "Cincinnati, Ohio",
+    "dateAdded": null,
+    "cik": 80424
+  },
+  {
+    "ticker": "PGR",
+    "company": "Progressive Corp.",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Mayfield Village, Ohio",
+    "dateAdded": "1997-08-04",
+    "cik": 80661
+  },
+  {
+    "ticker": "PLD",
+    "company": "Prologis",
+    "sector": "Real Estate",
+    "industry": "Industrial REITs",
+    "hq": "San Francisco, California",
+    "dateAdded": "2003-07-17",
+    "cik": 1045609
+  },
+  {
+    "ticker": "PRU",
+    "company": "Prudential Financial",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "Newark, New Jersey",
+    "dateAdded": "2002-07-22",
+    "cik": 1137774
+  },
+  {
+    "ticker": "PEG",
+    "company": "Public Serv. Enterprise Inc.",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Newark, New Jersey",
+    "dateAdded": null,
+    "cik": 788784
+  },
+  {
+    "ticker": "PSA",
+    "company": "Public Storage",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Glendale, California",
+    "dateAdded": "2005-08-19",
+    "cik": 1393311
+  },
+  {
+    "ticker": "PHM",
+    "company": "Pulte Homes Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "1984-04-30",
+    "cik": 822416
+  },
+  {
+    "ticker": "PVH",
+    "company": "PVH Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "New York, New York",
+    "dateAdded": "2013-02-15",
+    "cik": 78239
+  },
+  {
+    "ticker": "QRVO",
+    "company": "Qorvo",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Greensboro, North Carolina",
+    "dateAdded": "2015-06-11",
+    "cik": 1604778
+  },
+  {
+    "ticker": "PWR",
+    "company": "Quanta Services Inc.",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "hq": "Houston, Texas",
+    "dateAdded": "2009-07-01",
+    "cik": 1050915
+  },
+  {
+    "ticker": "QCOM",
+    "company": "QUALCOMM Inc.",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "San Diego, California",
+    "dateAdded": null,
+    "cik": 804328
+  },
+  {
+    "ticker": "DGX",
+    "company": "Quest Diagnostics",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "hq": "Madison, New Jersey",
+    "dateAdded": "2002-12-12",
+    "cik": 1022079
+  },
+  {
+    "ticker": "RRC",
+    "company": "Range Resources Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Exploration & Production",
+    "hq": "Fort Worth, Texas",
+    "dateAdded": "2007-12-21",
+    "cik": 315852
+  },
+  {
+    "ticker": "RJF",
+    "company": "Raymond James Financial Inc.",
+    "sector": "Financials",
+    "industry": "Investment Banking & Brokerage",
+    "hq": "St. Petersburg, Florida",
+    "dateAdded": "2017-03-20",
+    "cik": 720005
+  },
+  {
+    "ticker": "RTN",
+    "company": "Raytheon Co.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Waltham, Massachusetts",
+    "dateAdded": null,
+    "cik": 1047122
+  },
+  {
+    "ticker": "O",
+    "company": "Realty Income Corporation",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "San Diego, California",
+    "dateAdded": "2015-04-07",
+    "cik": 726728
+  },
+  {
+    "ticker": "RHT",
+    "company": "Red Hat Inc.",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "hq": "Raleigh, North Carolina",
+    "dateAdded": "2009-07-27",
+    "cik": 1087423
+  },
+  {
+    "ticker": "REG",
+    "company": "Regency Centers Corporation",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "Jacksonville, Florida",
+    "dateAdded": "2017-03-02",
+    "cik": 910606
+  },
+  {
+    "ticker": "REGN",
+    "company": "Regeneron",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Tarrytown, New York",
+    "dateAdded": "2013-05-01",
+    "cik": 872589
+  },
+  {
+    "ticker": "RF",
+    "company": "Regions Financial Corp.",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Birmingham, Alabama",
+    "dateAdded": "1998-08-28",
+    "cik": 1281761
+  },
+  {
+    "ticker": "RSG",
+    "company": "Republic Services Inc",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hq": "Phoenix, Arizona",
+    "dateAdded": "2008-12-05",
+    "cik": 1060391
+  },
+  {
+    "ticker": "RMD",
+    "company": "ResMed",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "San Diego, California",
+    "dateAdded": "2017-07-26",
+    "cik": 943819
+  },
+  {
+    "ticker": "RHI",
+    "company": "Robert Half International",
+    "sector": "Industrials",
+    "industry": "Human Resource & Employment Services",
+    "hq": "Menlo Park, California",
+    "dateAdded": "2000-12-05",
+    "cik": 315213
+  },
+  {
+    "ticker": "ROK",
+    "company": "Rockwell Automation Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Components & Equipment",
+    "hq": "Milwaukee, Wisconsin",
+    "dateAdded": null,
+    "cik": 1024478
+  },
+  {
+    "ticker": "COL",
+    "company": "Rockwell Collins",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Cedar Rapids, Iowa",
+    "dateAdded": "2001-07-02",
+    "cik": 1137411
+  },
+  {
+    "ticker": "ROP",
+    "company": "Roper Technologies",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "hq": "Sarasota, Florida",
+    "dateAdded": "2009-12-23",
+    "cik": 882835
+  },
+  {
+    "ticker": "ROST",
+    "company": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hq": "Pleasanton, California",
+    "dateAdded": "2009-12-21",
+    "cik": 745732
+  },
+  {
+    "ticker": "RCL",
+    "company": "Royal Caribbean Cruises Ltd",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hq": "Miami, Florida",
+    "dateAdded": "2014-12-05",
+    "cik": 884887
+  },
+  {
+    "ticker": "CRM",
+    "company": "Salesforce.com",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "San Francisco, California",
+    "dateAdded": "2008-09-15",
+    "cik": 1108524
+  },
+  {
+    "ticker": "SCG",
+    "company": "SCANA Corp",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Cayce, South Carolina",
+    "dateAdded": "2009-01-02",
+    "cik": 754737
+  },
+  {
+    "ticker": "SLB",
+    "company": "Schlumberger Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": "Curaçao, Kingdom of the Netherlands",
+    "dateAdded": "1965-03-31",
+    "cik": 87347
+  },
+  {
+    "ticker": "SNI",
+    "company": "Scripps Networks Interactive Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Cincinnati, Ohio",
+    "dateAdded": "2008-07-01",
+    "cik": 1430602
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate Technology",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Dublin, Ireland",
+    "dateAdded": "2012-07-02",
+    "cik": 1137789
+  },
+  {
+    "ticker": "SEE",
+    "company": "Sealed Air",
+    "sector": "Materials",
+    "industry": "Paper Packaging",
+    "hq": "Elmwood Park, New Jersey",
+    "dateAdded": null,
+    "cik": 1012100
+  },
+  {
+    "ticker": "SRE",
+    "company": "Sempra Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "San Diego, California",
+    "dateAdded": null,
+    "cik": 1032208
+  },
+  {
+    "ticker": "SHW",
+    "company": "Sherwin-Williams",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "hq": "Cleveland, Ohio",
+    "dateAdded": "1964-06-30",
+    "cik": 89800
+  },
+  {
+    "ticker": "SIG",
+    "company": "Signet Jewelers",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Hamilton, Bermuda",
+    "dateAdded": "2015-07-29",
+    "cik": 832988
+  },
+  {
+    "ticker": "SPG",
+    "company": "Simon Property Group Inc",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "hq": "Indianapolis, Indiana",
+    "dateAdded": "2002-06-26",
+    "cik": 1063761
+  },
+  {
+    "ticker": "SWKS",
+    "company": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Woburn, Massachusetts",
+    "dateAdded": "2015-03-12",
+    "cik": 4127
+  },
+  {
+    "ticker": "SLG",
+    "company": "SL Green Realty",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hq": "New York, New York",
+    "dateAdded": "2015-03-20",
+    "cik": 1040971
+  },
+  {
+    "ticker": "SNA",
+    "company": "Snap-On Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Household Appliances",
+    "hq": "Kenosha, Wisconsin",
+    "dateAdded": "1982-09-30",
+    "cik": 91440
+  },
+  {
+    "ticker": "SO",
+    "company": "Southern Co.",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": null,
+    "cik": 92122
+  },
+  {
+    "ticker": "LUV",
+    "company": "Southwest Airlines",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "hq": "Dallas, Texas",
+    "dateAdded": "1994-07-01",
+    "cik": 92380
+  },
+  {
+    "ticker": "SPGI",
+    "company": "S&P Global, Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges & Data",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 64040
+  },
+  {
+    "ticker": "SWK",
+    "company": "Stanley Black & Decker",
+    "sector": "Consumer Discretionary",
+    "industry": "Household Appliances",
+    "hq": "New Britain, Connecticut",
+    "dateAdded": "1982-09-30",
+    "cik": 93556
+  },
+  {
+    "ticker": "SPLS",
+    "company": "Staples Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Framingham, Massachusetts",
+    "dateAdded": "1998-10-07",
+    "cik": 791519
+  },
+  {
+    "ticker": "SBUX",
+    "company": "Starbucks Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": "Seattle, Washington",
+    "dateAdded": null,
+    "cik": 829224
+  },
+  {
+    "ticker": "STT",
+    "company": "State Street Corp.",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Boston, Massachusetts",
+    "dateAdded": null,
+    "cik": 93751
+  },
+  {
+    "ticker": "SRCL",
+    "company": "Stericycle Inc",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hq": "Lake Forest, Illinois",
+    "dateAdded": "2008-11-19",
+    "cik": 861878
+  },
+  {
+    "ticker": "SYK",
+    "company": "Stryker Corp.",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Kalamazoo, Michigan",
+    "dateAdded": "2000-12-12",
+    "cik": 310764
+  },
+  {
+    "ticker": "STI",
+    "company": "SunTrust Banks",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "1988-05-31",
+    "cik": 750556
+  },
+  {
+    "ticker": "SYMC",
+    "company": "Symantec Corp.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "Mountain View, California",
+    "dateAdded": "2003-03-25",
+    "cik": 849399
+  },
+  {
+    "ticker": "SYF",
+    "company": "Synchrony Financial",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "hq": "Stamford, Connecticut",
+    "dateAdded": "2015-11-18",
+    "cik": 1601712
+  },
+  {
+    "ticker": "SNPS",
+    "company": "Synopsys Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "hq": "Mountain View, California",
+    "dateAdded": "2017-03-16",
+    "cik": 883241
+  },
+  {
+    "ticker": "SYY",
+    "company": "Sysco Corp.",
+    "sector": "Consumer Staples",
+    "industry": "Food Distributors",
+    "hq": "Houston, Texas",
+    "dateAdded": "1986-12-31",
+    "cik": 96021
+  },
+  {
+    "ticker": "TROW",
+    "company": "T. Rowe Price Group",
+    "sector": "Financials",
+    "industry": "Asset Management & Custody Banks",
+    "hq": "Baltimore, Maryland",
+    "dateAdded": null,
+    "cik": 1113169
+  },
+  {
+    "ticker": "TGT",
+    "company": "Target Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "General Merchandise Stores",
+    "hq": "Minneapolis, Minnesota",
+    "dateAdded": "1976-12-31",
+    "cik": 27419
+  },
+  {
+    "ticker": "TEL",
+    "company": "TE Connectivity Ltd.",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "hq": "Schaffhausen, Switzerland",
+    "dateAdded": "2011-10-17",
+    "cik": 1385157
+  },
+  {
+    "ticker": "FTI",
+    "company": "TechnipFMC",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "hq": "London, United Kingdom",
+    "dateAdded": "2009-06-05",
+    "cik": 1681459
+  },
+  {
+    "ticker": "TXN",
+    "company": "Texas Instruments",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "Dallas, Texas",
+    "dateAdded": null,
+    "cik": 97476
+  },
+  {
+    "ticker": "TXT",
+    "company": "Textron Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Providence, Rhode Island",
+    "dateAdded": "1978-12-31",
+    "cik": 217346
+  },
+  {
+    "ticker": "TMO",
+    "company": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Waltham, Massachusetts",
+    "dateAdded": null,
+    "cik": 97745
+  },
+  {
+    "ticker": "TIF",
+    "company": "Tiffany & Co.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "New York, New York",
+    "dateAdded": "2000-06-21",
+    "cik": 98246
+  },
+  {
+    "ticker": "TWX",
+    "company": "Time Warner Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1105705
+  },
+  {
+    "ticker": "TJX",
+    "company": "TJX Companies Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "hq": "Framingham, Massachusetts",
+    "dateAdded": "1985-09-30",
+    "cik": 109198
+  },
+  {
+    "ticker": "TMK",
+    "company": "Torchmark Corp.",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "McKinney, Texas",
+    "dateAdded": "1989-04-30",
+    "cik": 320335
+  },
+  {
+    "ticker": "TSS",
+    "company": "Total System Services",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Columbus, Georgia",
+    "dateAdded": "2008-01-02",
+    "cik": 721683
+  },
+  {
+    "ticker": "TSCO",
+    "company": "Tractor Supply company",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Brentwood, Tennessee",
+    "dateAdded": "2014-01-24",
+    "cik": 916365
+  },
+  {
+    "ticker": "TDG",
+    "company": "TransDigm Group",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Cleveland, Ohio",
+    "dateAdded": "2016-06-03",
+    "cik": 1260221
+  },
+  {
+    "ticker": "TRV",
+    "company": "The Travelers Companies Inc.",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "New York, New York",
+    "dateAdded": "2002-08-21",
+    "cik": 86312
+  },
+  {
+    "ticker": "TRIP",
+    "company": "TripAdvisor",
+    "sector": "Consumer Discretionary",
+    "industry": "Internet & Direct Marketing Retail",
+    "hq": "Newton, Massachusetts",
+    "dateAdded": "2011-12-21",
+    "cik": 1526520
+  },
+  {
+    "ticker": "FOXA",
+    "company": "Twenty-First Century Fox Class A",
+    "sector": "Consumer Discretionary",
+    "industry": "Publishing",
+    "hq": "New York, New York",
+    "dateAdded": "2013-07-01",
+    "cik": 1308161
+  },
+  {
+    "ticker": "FOX",
+    "company": "Twenty-First Century Fox Class B",
+    "sector": "Consumer Discretionary",
+    "industry": "Publishing",
+    "hq": "New York, New York",
+    "dateAdded": "2015-09-18",
+    "cik": 1308161
+  },
+  {
+    "ticker": "TSN",
+    "company": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods & Meats",
+    "hq": "Springdale, Arkansas",
+    "dateAdded": null,
+    "cik": 100493
+  },
+  {
+    "ticker": "UDR",
+    "company": "UDR Inc",
+    "sector": "Real Estate",
+    "industry": "Residential REITs",
+    "hq": "Highlands Ranch, Colorado",
+    "dateAdded": "2016-03-07",
+    "cik": 74208
+  },
+  {
+    "ticker": "ULTA",
+    "company": "Ulta Salon Cosmetics & Fragrance Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialty Stores",
+    "hq": "Bolingbrook, Illinois",
+    "dateAdded": "2016-04-18",
+    "cik": 1403568
+  },
+  {
+    "ticker": "USB",
+    "company": "U.S. Bancorp",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "Minneapolis, Minnesota",
+    "dateAdded": null,
+    "cik": 36104
+  },
+  {
+    "ticker": "UA",
+    "company": "Under Armour Class C",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "Baltimore, Maryland",
+    "dateAdded": "2014-05-01",
+    "cik": 1336917
+  },
+  {
+    "ticker": "UAA",
+    "company": "Under Armour Class A",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "Baltimore, Maryland",
+    "dateAdded": "2016-03-25",
+    "cik": 1336917
+  },
+  {
+    "ticker": "UNP",
+    "company": "Union Pacific",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "hq": "Omaha, Nebraska",
+    "dateAdded": null,
+    "cik": 100885
+  },
+  {
+    "ticker": "UAL",
+    "company": "United Continental Holdings",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2015-09-03",
+    "cik": 100517
+  },
+  {
+    "ticker": "UNH",
+    "company": "United Health Group Inc.",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "hq": "Minnetonka, Minnesota",
+    "dateAdded": "1994-07-01",
+    "cik": 731766
+  },
+  {
+    "ticker": "UPS",
+    "company": "United Parcel Service",
+    "sector": "Industrials",
+    "industry": "Air Freight & Logistics",
+    "hq": "Atlanta, Georgia",
+    "dateAdded": "2002-07-22",
+    "cik": 1090727
+  },
+  {
+    "ticker": "URI",
+    "company": "United Rentals, Inc.",
+    "sector": "Industrials",
+    "industry": "Trading Companies & Distributors",
+    "hq": "Stamford, Connecticut",
+    "dateAdded": "2014-09-20",
+    "cik": 1067701
+  },
+  {
+    "ticker": "UTX",
+    "company": "United Technologies",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "hq": "Hartford, Connecticut",
+    "dateAdded": null,
+    "cik": 101829
+  },
+  {
+    "ticker": "UHS",
+    "company": "Universal Health Services, Inc.",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "hq": "King of Prussia, Pennsylvania",
+    "dateAdded": "2014-09-20",
+    "cik": 352915
+  },
+  {
+    "ticker": "UNM",
+    "company": "Unum Group",
+    "sector": "Financials",
+    "industry": "Life & Health Insurance",
+    "hq": "Chattanooga, Tennessee",
+    "dateAdded": "1994-03-01",
+    "cik": 5513
+  },
+  {
+    "ticker": "VFC",
+    "company": "V.F. Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories & Luxury Goods",
+    "hq": "Greensboro, North Carolina",
+    "dateAdded": "1979-06-30",
+    "cik": 103379
+  },
+  {
+    "ticker": "VLO",
+    "company": "Valero Energy",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "hq": "San Antonio, Texas",
+    "dateAdded": null,
+    "cik": 1035002
+  },
+  {
+    "ticker": "VAR",
+    "company": "Varian Medical Systems",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Palo Alto, California",
+    "dateAdded": "2007-02-12",
+    "cik": 203527
+  },
+  {
+    "ticker": "VTR",
+    "company": "Ventas Inc",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hq": "Chicago, Illinois",
+    "dateAdded": "2009-03-04",
+    "cik": 740260
+  },
+  {
+    "ticker": "VRSN",
+    "company": "Verisign Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Dulles, Virginia",
+    "dateAdded": "2006-02-01",
+    "cik": 1014473
+  },
+  {
+    "ticker": "VRSK",
+    "company": "Verisk Analytics",
+    "sector": "Industrials",
+    "industry": "Research & Consulting Services",
+    "hq": "Jersey City, New Jersey",
+    "dateAdded": "2015-10-08",
+    "cik": 1442145
+  },
+  {
+    "ticker": "VZ",
+    "company": "Verizon Communications",
+    "sector": "Telecommunication Services",
+    "industry": "Integrated Telecommunication Services",
+    "hq": "New York, New York",
+    "dateAdded": "1983-11-30",
+    "cik": 732712
+  },
+  {
+    "ticker": "VRTX",
+    "company": "Vertex Pharmaceuticals Inc",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "hq": "Cambridge, Massachusetts",
+    "dateAdded": "2013-09-23",
+    "cik": 875320
+  },
+  {
+    "ticker": "VIAB",
+    "company": "Viacom Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 1339947
+  },
+  {
+    "ticker": "V",
+    "company": "Visa Inc.",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "San Francisco, California",
+    "dateAdded": "2009-12-21",
+    "cik": 1403161
+  },
+  {
+    "ticker": "VNO",
+    "company": "Vornado Realty Trust",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "hq": "New York, New York",
+    "dateAdded": null,
+    "cik": 899689
+  },
+  {
+    "ticker": "VMC",
+    "company": "Vulcan Materials",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "hq": "Birmingham, Alabama",
+    "dateAdded": "1999-06-30",
+    "cik": 1396009
+  },
+  {
+    "ticker": "WMT",
+    "company": "Wal-Mart Stores",
+    "sector": "Consumer Staples",
+    "industry": "Hypermarkets & Super Centers",
+    "hq": "Bentonville, Arkansas",
+    "dateAdded": "1982-08-31",
+    "cik": 104169
+  },
+  {
+    "ticker": "WBA",
+    "company": "Walgreens Boots Alliance",
+    "sector": "Consumer Staples",
+    "industry": "Drug Retail",
+    "hq": "Deerfield, Illinois",
+    "dateAdded": "1979-12-31",
+    "cik": 1618921
+  },
+  {
+    "ticker": "DIS",
+    "company": "The Walt Disney company",
+    "sector": "Consumer Discretionary",
+    "industry": "Cable & Satellite",
+    "hq": "Burbank, California",
+    "dateAdded": "1976-06-30",
+    "cik": 1001039
+  },
+  {
+    "ticker": "WM",
+    "company": "Waste Management Inc.",
+    "sector": "Industrials",
+    "industry": "Environmental & Facilities Services",
+    "hq": "Houston, Texas",
+    "dateAdded": null,
+    "cik": 823768
+  },
+  {
+    "ticker": "WAT",
+    "company": "Waters Corporation",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "hq": "Milford, Massachusetts",
+    "dateAdded": null,
+    "cik": 1000697
+  },
+  {
+    "ticker": "WEC",
+    "company": "Wec Energy Group Inc",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "hq": "Milwaukee, Wisconsin",
+    "dateAdded": "2008-10-31",
+    "cik": 783325
+  },
+  {
+    "ticker": "WFC",
+    "company": "Wells Fargo",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "hq": "San Francisco, California",
+    "dateAdded": "1976-06-30",
+    "cik": 72971
+  },
+  {
+    "ticker": "HCN",
+    "company": "Welltower Inc.",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "hq": "Toledo, Ohio",
+    "dateAdded": "2009-01-30",
+    "cik": 766704
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Irvine, California",
+    "dateAdded": "2009-07-01",
+    "cik": 106040
+  },
+  {
+    "ticker": "WU",
+    "company": "Western Union Co",
+    "sector": "Information Technology",
+    "industry": "Internet Software & Services",
+    "hq": "Englewood, Colorado",
+    "dateAdded": null,
+    "cik": 1365135
+  },
+  {
+    "ticker": "WRK",
+    "company": "WestRock company",
+    "sector": "Materials",
+    "industry": "Paper Packaging",
+    "hq": "Richmond, Virginia",
+    "dateAdded": null,
+    "cik": 1636023
+  },
+  {
+    "ticker": "WY",
+    "company": "Weyerhaeuser Corp.",
+    "sector": "Real Estate",
+    "industry": "Specialized REITs",
+    "hq": "Federal Way, Washington",
+    "dateAdded": null,
+    "cik": 106535
+  },
+  {
+    "ticker": "WHR",
+    "company": "Whirlpool Corp.",
+    "sector": "Consumer Discretionary",
+    "industry": "Household Appliances",
+    "hq": "Benton Harbor, Michigan",
+    "dateAdded": null,
+    "cik": 106640
+  },
+  {
+    "ticker": "WFM",
+    "company": "Whole Foods Market",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "hq": "Austin, Texas",
+    "dateAdded": null,
+    "cik": 865436
+  },
+  {
+    "ticker": "WMB",
+    "company": "Williams Cos.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Storage & Transportation",
+    "hq": "Tulsa, Oklahoma",
+    "dateAdded": "1975-03-31",
+    "cik": 107263
+  },
+  {
+    "ticker": "WLTW",
+    "company": "Willis Towers Watson",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "hq": "London, United Kingdom",
+    "dateAdded": "2016-01-05",
+    "cik": 1140536
+  },
+  {
+    "ticker": "WYN",
+    "company": "Wyndham Worldwide",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts & Cruise Lines",
+    "hq": "Parsippany, New Jersey",
+    "dateAdded": null,
+    "cik": 1361658
+  },
+  {
+    "ticker": "WYNN",
+    "company": "Wynn Resorts Ltd",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos & Gaming",
+    "hq": "Paradise, Nevada",
+    "dateAdded": "2008-11-14",
+    "cik": 1174922
+  },
+  {
+    "ticker": "XEL",
+    "company": "Xcel Energy Inc",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "hq": "Minneapolis, Minnesota",
+    "dateAdded": null,
+    "cik": 72903
+  },
+  {
+    "ticker": "XRX",
+    "company": "Xerox Corp.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage & Peripherals",
+    "hq": "Norwalk, Connecticut",
+    "dateAdded": null,
+    "cik": 108772
+  },
+  {
+    "ticker": "XLNX",
+    "company": "Xilinx Inc",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "hq": "San Jose, California",
+    "dateAdded": "1999-11-08",
+    "cik": 743988
+  },
+  {
+    "ticker": "XL",
+    "company": "XL Capital",
+    "sector": "Financials",
+    "industry": "Property & Casualty Insurance",
+    "hq": "Hamilton, Bermuda",
+    "dateAdded": null,
+    "cik": 875159
+  },
+  {
+    "ticker": "XYL",
+    "company": "Xylem Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery",
+    "hq": "White Plains, New York",
+    "dateAdded": "2011-11-01",
+    "cik": 1524472
+  },
+  {
+    "ticker": "YUM",
+    "company": "Yum! Brands Inc",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "hq": "Louisville, Kentucky",
+    "dateAdded": "1997-10-06",
+    "cik": 1041061
+  },
+  {
+    "ticker": "ZBH",
+    "company": "Zimmer Biomet Holdings",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "hq": "Warsaw, Indiana",
+    "dateAdded": "2001-08-07",
+    "cik": 1136869
+  },
+  {
+    "ticker": "ZION",
+    "company": "Zions Bancorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "hq": "Salt Lake City, Utah",
+    "dateAdded": null,
+    "cik": 109380
+  },
+  {
+    "ticker": "ZTS",
+    "company": "Zoetis",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "hq": "Florham Park, New Jersey",
+    "dateAdded": "2013-06-21",
+    "cik": 1555280
+  }
+]
